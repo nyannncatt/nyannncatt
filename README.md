@@ -32,6 +32,7 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nyannncatt&show_icons=true&locale=en&theme=radical" alt="nyannncatt" />
 </p>
@@ -40,6 +41,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyannncatt&theme=radical" alt="nyannncatt" />
 </p>
 
+## 🚀 Most Used Languages
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyannncatt&show_icons=true&locale=en&layout=compact&theme=radical" alt="nyannncatt" />
 </p>
