@@ -3,7 +3,6 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 <img src="https://raw.githubusercontent.com/nyannncatt/nyannncatt/output/snake.svg" alt="Snake animation" />
-
 ###
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;">
