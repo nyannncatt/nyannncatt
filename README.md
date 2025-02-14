@@ -37,6 +37,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nyannncatt&show_icons=true&locale=en&theme=radical" alt="nyannncatt" />
 </p>
 
+##  📊 Profile Views
+<p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nyannncatt/count.svg?"  />
+</div>
+
+###
 <p>
 
 
