@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm nyannncatt</h1>
+<h1>Snake eating ahh messy commits/contributions</h1>
 
+![snake gif](https://github.com/nyannncatt/nyannncatt/blob/output/github-snake-dark.svg)
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h3>🚀 Languages and Tools I Use</h3>
 <p>
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
