@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm nyannncatt</h1>
-<h1>Snake eating ahh messy commits/contributions</h1>
+<h1>Snake eating messy ahh commits/contributions</h1>
 
 ![snake gif](https://github.com/nyannncatt/nyannncatt/blob/output/github-snake-dark.svg)
 
