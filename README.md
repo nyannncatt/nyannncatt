@@ -38,8 +38,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyannncatt&theme=radical" alt="nyannncatt" />
-</p>
+
 
 ## 🚀 Most Used Languages
 <p>
