@@ -47,3 +47,4 @@
   <img src="https://profile-counter.glitch.me/nyannncatt/count.svg?"  />
 </div>
 
+![snake gif](https://github.com/nyannncatt/nyannncatt/blob/output/github-contribution-grid-snake.gif)
