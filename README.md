@@ -3,7 +3,7 @@
 
 ![snake gif](https://github.com/nyannncatt/nyannncatt/blob/output/github-snake-dark.svg)
 
-<h3>🚀 Languages and Tools I Use</h3>
+<h3>🚀 Languages and Technologies I Use</h3>
 <p>
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
