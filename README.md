@@ -1,11 +1,6 @@
 <h1>Hi <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="25" alt="Nyannncatt's GIF">&nbsp;, I'm nyannncatt <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="35"></h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
- 
-
-
-<h1>Snake eating my messy ahh commits/contributions</h1>
-
 ![snake gif](https://github.com/nyannncatt/nyannncatt/blob/output/github-snake-dark.svg)
 
 <h3>🚀 Languages and Technologies I Use</h3>
