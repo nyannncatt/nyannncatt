@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm nyannncatt</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <h1>Snake eating my messy ahh commits/contributions</h1>
 
 ![snake gif](https://github.com/nyannncatt/nyannncatt/blob/output/github-snake-dark.svg)
